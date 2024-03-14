@@ -4,6 +4,8 @@
 !.vs/tasks.json
 !.vs/launch.json
 !.vs/extensions.json
+.vs/myblogsite/v17/.suo
+.vs/myblogsite/v17/fileList.bin
 *.code-workspace
 # Local History for Visual Studio Code
 .history/
